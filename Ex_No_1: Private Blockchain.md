@@ -115,8 +115,15 @@ return name;
 OUTPUT
 # Deploying Transaction in Remix
 7
+
+<img width="940" height="487" alt="image" src="https://github.com/user-attachments/assets/7ba7c0d1-895c-4104-8d1b-51c7a5cbcd1c" />
+
+
 # Contract Creation Output in Command Prompt
 <img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
+
+<img width="940" height="651" alt="image" src="https://github.com/user-attachments/assets/454dbcfb-d5d2-4f1c-971d-9ebaf00a6534" />
+
 
 RESULT: Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
 into it by creating and deploying Smart contract successfully
